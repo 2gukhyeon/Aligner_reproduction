@@ -1,0 +1,11 @@
+torch==2.3.1
+transformers==4.46.2
+datasets==3.1.0
+tiktoken
+sentencepiece
+protobuf
+tensorboard
+transformers[torch]
+jsonlines
+gdown
+peft
