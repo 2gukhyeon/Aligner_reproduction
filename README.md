@@ -3,8 +3,8 @@
 ```bash
 python fine_tune.py --dataset_path "./dataset/aligner_train.jsonl"
 ```
-The train dataset is already included in the repository.
----
+**The train dataset is already included in the repository.**
+
 
 
 ## Installation
